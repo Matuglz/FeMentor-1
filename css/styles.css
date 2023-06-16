@@ -61,7 +61,6 @@ p {
 }
 
 .button-community{
-    width: 50%;
     height: 2.5rem;
     background-color: var(--pink);
     border: none;
@@ -70,6 +69,10 @@ p {
     font-family: var(--opensans);
     font-weight: 700;
     box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.39);
+}
+
+.button-community1{
+    width: 70%;
 }
 
 .img-mockups {
